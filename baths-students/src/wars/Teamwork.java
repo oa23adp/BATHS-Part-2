@@ -27,9 +27,7 @@ public class Teamwork
         details[5] = "Adebola";
         details[6] = "22086761";
 
-        details[7] = "Animashaun";
-        details[8] = "Ayanfeoluwa";
-        details[9] = "22102944";
+       
 
 
         details[10] = "Hosseini";
@@ -39,8 +37,8 @@ public class Teamwork
 	
 	   // only if applicable
         //details[13] = "surname of member5";
-        //details[14] = "first name of member5";
-        //details[15] = "SRN of member5";
+        details[14] = "first name of member5";
+        details[15] = "SRN of member5";
 
 
     }
