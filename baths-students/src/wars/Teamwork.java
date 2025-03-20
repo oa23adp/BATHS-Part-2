@@ -19,7 +19,7 @@ public class Teamwork
         // before the surname of member 2...etc
         details[0] = "team number";
         
-        details[1] = "Abuku";
+        details[1] = "AAbuku";
         details[2] = "Onome";
         details[3] = "21092431";
 
@@ -27,7 +27,9 @@ public class Teamwork
         details[5] = "Adebola";
         details[6] = "22086761";
 
-       
+        details[7] = "Animashaun";
+        details[8] = "Ayanfeoluwa";
+        details[9] = "22102944";
 
 
         details[10] = "Hosseini";
