@@ -27,6 +27,10 @@ public class Teamwork
         details[5] = "Adebola";
         details[6] = "22086761";
 
+        details[7] = "Animashaun";
+        details[8] = "Ayanfeoluwa";
+        details[9] = "22102944";
+
 
         details[10] = "Hosseini";
         details[11] = "Pasha";
